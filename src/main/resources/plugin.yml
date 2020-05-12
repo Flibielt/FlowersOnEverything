@@ -2,3 +2,4 @@ name: FlowersOnEverything
 main: hu.flibielt.flowers.Main
 description: Spigot plugin
 version: 1.0
+api-version: 1.13
