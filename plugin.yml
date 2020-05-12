@@ -1,0 +1,4 @@
+name: FlowersOnEverything
+main: hu.flibielt.flowers.Main
+description: Spigot plugin
+version: 1.0
